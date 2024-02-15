@@ -1,5 +1,6 @@
 # Time-Calculator
-Project obtained from freecodecamp.org
+Project obtained from freecodecamp.org.
+
 Kept time in 12 hour format
 
 ## Instructions for Project:
